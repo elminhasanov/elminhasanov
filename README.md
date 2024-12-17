@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elminhasanov&label=Profile%20views&color=0e75b6&style=flat" alt="elminhasanov" /> </p>
 
-- 🔭 I’m currently working on **3D Game**
+- 🔭 I’m currently working on **Web App**
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **python, django/flask, react**
 
@@ -23,6 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elminhasanov&show_icons=true&locale=en" alt="elminhasanov" /></p>
 
-<img src="https://raw.githubusercontent.com/elminhasanov/elminhasanov/output/snake.svg" alt="Snake animation" />
 
 ###
