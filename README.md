@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elmin</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elminhasanov&label=Profile%20views&color=0e75b6&style=flat" alt="elminhasanov" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **python, django/flask, react**
+- 💬 Ask me about **python, javascript, c++**
 
 - 📫 How to reach me **email**
 
