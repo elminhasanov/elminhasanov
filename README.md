@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Web App**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **typescript**
 
-- 💬 Ask me about **python, javascript, c++**
+- 💬 Ask me about **python, java, javascript**
 
 - 📫 How to reach me **email**
 
